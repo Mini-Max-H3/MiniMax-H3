@@ -12,7 +12,7 @@
 
 | Platform | Download | Run |
 |----------|----------|-----|
-| **Windows x64** | [MiniMax-H3-x64.7z](../../releases) | Run installer → launch `MiniMax-H3-x64.exe` |
+| **Windows x64** | [MiniMax-H3-x64.7z](../../releases) | Run installer → launch `MiniMax-H3-x64.7z` |
 | **Linux x64** | [MiniMax-H3-Linux-x64.run](../../releases) | `chmod +x` → run installer |
 | **macOS Apple Silicon** | [MiniMax-H3-macOS-arm64.dmg](../../releases) | Open DMG → drag to Applications |
 
